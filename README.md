@@ -12,7 +12,7 @@ Following a structured roadmap (see [roadmap.md](./roadmap.md)) covering:
 - Tools: Git, deployment, best practices
 
 ## 📊 Progress Tracker
-- **Start Date:** [Add today's date]
+- **Start Date:** 17/12/2025
 - **Current Phase:** Month 1 - Frontend Foundation
 - **Hours Logged:** 0/540 total
 
