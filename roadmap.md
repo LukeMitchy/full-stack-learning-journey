@@ -6,7 +6,7 @@
 ## PHASE 1: Frontend Foundation (Months 1-3)
 
 ### Course Resource
-- [ ] Purchase: Colt Steele's "Web Developer Bootcamp 2025" (£19.99)
+- [✅] Purchase: Colt Steele's "Web Developer Bootcamp 2025" (£19.99)
 
 ### 📚 Month 1: HTML & CSS Fundamentals
 
